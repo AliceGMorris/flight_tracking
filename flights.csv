@@ -1,0 +1,4 @@
+id,time_stamp,reg_number,alt,dir,speed,lat,lng,dep_iata,flight_icao,status
+1,11/15/2023 17:56:00,N504AE,9753,292.1,713,42.48022,-86.072899,DCA,JIA5579,en-route
+2,11/15/2023 17:56:00,N699BR,4175,289.9,627,42.967072,-88.650662,ORD,SKW5377,en-route
+3,11/15/2023 17:56:00,N749PG,1463,52,312,42.915344,-89.742805,DBQ,undefined,en-route
